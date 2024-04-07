@@ -8,8 +8,9 @@
 https://t.me/aurora_develop
 
 # Web端 
-访问 http://你的服务器ip:8080/web 即可
-在web设置页面的填写服务器的http://你的服务器ip:8080
+访问 http://你的服务器ip:8080/web 在web设置页面的填写服务器的http://你的服务器ip:8080
+![web使用](https://jsd.cdn.zzko.cn/gh/xiaozhou26/tuph@main/images/2024-04-07%20112100.png)
+
 
 ### 注：仅ip属地支持免登录使用ChatGpt可以使用(也可以自定义Baseurl来绕过限制)
 
@@ -31,7 +32,10 @@ https://t.me/aurora_develop
 
 ### Railway部署
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/jcl2Es?referralCode=XXqY_5)
+
 ### Zeabur部署
+进入修改镜像名称aurora+任何字母数字
+
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/JF3EFW)
 
 ### 编译部署
